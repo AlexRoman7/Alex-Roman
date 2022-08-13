@@ -1,2 +1,2 @@
 # Alex-Roman
-@POMINEOTECH
+@PROMINEOTECH
